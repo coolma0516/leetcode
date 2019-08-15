@@ -1,4 +1,4 @@
-package com.mageshuo.leetcode;
+package com.mageshuo.leetcode.algorithm;
 
 import java.util.concurrent.Semaphore;
 

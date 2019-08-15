@@ -1,6 +1,8 @@
 package com.mageshuo.leetcode;
 
 
+import com.mageshuo.leetcode.algorithm.LisenceKeyFormatting;
+
 public class LisenceKeyFormattingTest {
     public static void main(String[] args) {
         String result;
