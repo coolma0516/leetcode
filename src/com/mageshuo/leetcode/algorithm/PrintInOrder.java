@@ -41,7 +41,7 @@ public class PrintInOrder {
         run3 = new Semaphore(0);
     }
 
-    public void first(Runnable printFirst) throws InterruptedException {
+    public void first(Runnable printFirst) throws   InterruptedException {
 
         // printFirst.run() outputs "first". Do not change or remove this line.
         printFirst.run();
