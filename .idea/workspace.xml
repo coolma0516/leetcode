@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97ae2040-a9f6-4090-905e-8ae0ccd9cba9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mageshuo/leetcode/algorithm/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mageshuo/leetcode/algorithm/ValidPraentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mageshuo/leetcode/algorithm/ValidPraentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577928279752</updated>
       <workItem from="1577928281438" duration="5042000" />
+      <workItem from="1578034301459" duration="3061000" />
     </task>
     <servers />
   </component>
