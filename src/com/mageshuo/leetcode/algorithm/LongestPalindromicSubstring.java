@@ -17,7 +17,7 @@ package com.mageshuo.leetcode.algorithm;
 public class LongestPalindromicSubstring {
     public String longestPalindrome(String s) {
         int n = s.length();
-        String result = null;
+        String result = "";
         boolean[][] dp = new boolean[n][n];
 
         for(int i = n - 1; i >= 0; i--) {
